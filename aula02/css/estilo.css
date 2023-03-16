@@ -1,0 +1,39 @@
+/*Seletor Universal*/
+*{
+    
+}
+
+/*Seletor de texto*/
+h1, p{
+
+}
+
+/*Seletor de classe*/
+.classe{
+
+}
+
+/*Seletor de ID*/
+#ID{
+
+}
+
+/*Seletor de filho*/
+ul > a{
+    color: red;
+}
+
+/*Seletor descendente*/
+div h1{
+
+}
+
+/*Seletor adjacente*/
+h1+p{
+    color: blue;
+}
+
+/*Seletor irmão geral*/
+h1~span{
+color: blue;
+}
